@@ -1,0 +1,11 @@
+10 22
+       xxxxx
+    xxxxxxxxxxx
+    xxxxxxxxx
+xxxxxxxxxxxx xxxxxxxx
+xxxxxxxxxxxx xxxxxxxxx
+xxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx
